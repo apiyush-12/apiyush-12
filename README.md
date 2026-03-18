@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DSA, Next.js, AIML**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-c7ls.vercel.app/](https://piyushh-app.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-c7ls.vercel.app/](www.piyussh.dev)
 
 - 💬 Ask me about **Machine Learning**
 
