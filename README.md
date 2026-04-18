@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.piyussh.dev/](https://www.piyussh.dev/)
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about ** AIML / Networking **
 
 - 📫 How to reach me **apiyushkumar2000@gmail.com**
 
