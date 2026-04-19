@@ -28,14 +28,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=apiyush-12&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apiyush-12&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=apiyush-12&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apiyush-12&layout=compact&theme=tokyonight" />
 </p>
 
 ---
