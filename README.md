@@ -18,10 +18,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/piyush-kumar-abb294308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-kumar-abb294308" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/apiyushkr12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="apiyushkr12" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pk6990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pk6990" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/a_piyush_kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="a_piyush_kr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/piyush-kumar-abb294308" style="margin-right:10px;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/></a>
+<a href="https://www.codechef.com/users/apiyushkr12" style="margin-right:10px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="40" height="40"/></a>
+<a href="https://www.hackerrank.com/pk6990" style="margin-right:10px;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" height="40"/></a>
+<a href="https://www.leetcode.com/a_piyush_kr" style="margin-right:10px;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40"/></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/pk696x98/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/pk696x98/" height="30" width="40" /></a>
 </p>
 
