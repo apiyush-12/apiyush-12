@@ -42,9 +42,10 @@
 
 ## 🚀 Featured Projects
 
-- 🔹 **EduXpert** – Course Selling Platform (MERN Stack)
+- 🔹 **Ai-Virtual-Assistance** – A full-stack AI-powered voice assistant that understands voice commands, processes them using AI, and performs real-time actions.
+- 🔹 **Email-Writer** – AI-powered Email Reply Generator with Gmail Chrome Extension integration using React, Spring Boot, Docker, and Google Gemini API.
 - 🔹 **Home Automation with Alexa** – IoT using Raspberry Pi & ESP8266
-- 🔹 **Dream Decoder** – AI-based project using Gemini API
+- 🔹 **DSA-Visualizer** – A web-based platform for learning DSA concepts through visualizations and step-by-step algorithm animations.
 
 ---
 
