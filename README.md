@@ -76,8 +76,9 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=apiyush-12&theme=tokyonight&hide_border=true&border_radius=10"
-    alt="GitHub Streak"
+    width="70%"
+    src="https://streak-stats.vercel.app?user=apiyush-12&theme=tokyonight&border_radius=10"
+    alt="Piyush Kumar GitHub Streak"
   />
 </p>
 
@@ -99,8 +100,9 @@
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=apiyush-12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"
-    alt="GitHub Trophies"
+    width="95%"
+    src="https://gh-trophy.cdnsoft.net/?username=apiyush-12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4"
+    alt="Piyush Kumar GitHub Trophies"
   />
 </p>
 
