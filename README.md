@@ -59,39 +59,15 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    width="95%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apiyush-12&theme=tokyonight&animation=fade"
-    alt="Piyush GitHub Profile Details"
-  />
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apiyush-12&theme=tokyonight&animation=fade" alt="Piyush GitHub Profile Details"/>
 </p>
 
 <p align="center">
-  <img
-    width="46%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=apiyush-12&theme=tokyonight&animation=rise"
-    alt="Piyush GitHub Stats"
-  />
-
-  <img
-    width="46%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apiyush-12&theme=tokyonight&animation=rise"
-    alt="Piyush Languages"
-  />
+  <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=apiyush-12&theme=tokyonight&animation=rise" alt="Piyush GitHub Stats"/> <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apiyush-12&theme=tokyonight&animation=rise" alt="Piyush Languages"/>
 </p>
 
 <p align="center">
-  <img
-    width="46%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=apiyush-12&theme=tokyonight&animation=rise"
-    alt="Most Commit Language"
-  />
-
-  <img
-    width="46%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=apiyush-12&theme=tokyonight&utcOffset=5.5&animation=rise"
-    alt="Productive Time"
-  />
+  <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=apiyush-12&theme=tokyonight&animation=rise" alt="Most Commit Language"/> <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=apiyush-12&theme=tokyonight&utcOffset=5.5&animation=rise" alt="Productive Time"/>
 </p>
 
 ---
