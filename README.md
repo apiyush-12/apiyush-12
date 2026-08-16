@@ -39,7 +39,7 @@
 - 👨‍💻 Portfolio: [piyussh.dev](https://www.piyussh.dev/)
 - 💬 Ask me about **AI/ML, MERN Stack & Networking**
 - 📫 Reach me at **apiyushkumar2000@gmail.com**
-- 📄 [View My Resume](https://drive.google.com/file/d/1DetHRbP8f5pgBis8ZYmKBNSdGrrAo-3p/view)
+- 📄 [View My Resume](https://drive.google.com/file/d/17QzIeaJhjJs9fF1crUA5ehlzl7T301ey/view?usp=drive_link)
 - ⚡ Fun fact: **Kabaddi Player 🏃 & Situation Analyzer 🧠**
 
 <br clear="right"/>
