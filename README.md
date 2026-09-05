@@ -33,7 +33,7 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently learning **DSA, Next.js & AI/ML**
+- 🌱 Currently learning **Agentic AI, Cloud Networking, DSA & AI/ML**
 - 💻 Interested in **Software Development, AI/ML & Networking**
 - 🧠 Love solving **DSA & real-world engineering problems**
 - 👨‍💻 Portfolio: [piyussh.dev](https://www.piyussh.dev/)
